@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nishi Kant Mandal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikantmandal007&label=Profile%20views&color=0e75b6&style=flat" alt="nishikantmandal007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikantmandal007&label=Visitors&color=0e75b6&style=flat" alt="nishikantmandal007" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nishikntmndl007" target="blank"><img src="https://img.shields.io/twitter/follow/nishikntmndl007?logo=twitter&style=for-the-badge" alt="nishikntmndl007" /></a> </p>
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at [my Github](my Github)
+- 👨‍💻 All of my projects are available at my Github projects section
 
 - 💬 Ask me about **Python ,Java ,C**
 
