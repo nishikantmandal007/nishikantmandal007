@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nishi Kant Mandal</h1>
 <h3 align="center">Undergrad 🧑‍🎓 || Engineer ⚙️👨‍🔧 || Machine learning 🧑‍💻 || Robotics 🤖 || MATLAB 🧮 || Python 🐍|| Physics⚛️</h3>
 
+![Downloader la -64928f7baca01-modified](https://github.com/nishikantmandal007/nishikantmandal007/assets/113323074/a1c03624-4d70-484c-93af-ce2dbf50bf6f)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikantmandal007&label=Profile%20views&color=0e75b6&style=flat" alt="nishikantmandal007" /> </p>
 
 - 🔭 I’m currently working on **diffusion learning models**
