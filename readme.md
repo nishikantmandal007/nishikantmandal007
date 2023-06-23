@@ -12,9 +12,6 @@
 
 - 📫 How to reach me **nishikantmandal007@gmail.com**
 
-  ![Downloader la -64928f7baca01-modified](https://github.com/nishikantmandal007/nishikantmandal007/assets/113323074/a1c03624-4d70-484c-93af-ce2dbf50bf6f)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nishikntmndl007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishikntmndl007" height="30" width="40" /></a>
