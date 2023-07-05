@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishi Kant Mandal</h1>
-<h3 align="center">Undergrad 🧑‍🎓 || Engineer ⚙️👨‍🔧 || Machine learning 🧑‍💻 || Robotics 🤖 || MATLAB 🧮 || Python 🐍|| Physics⚛️</h3>
+<h3 align="center">Undergrad 🧑‍🎓 || Engineer ⚙️👨‍🔧 || Machine learning 🧑‍💻 || Robotics 🤖 || MATLAB 🧮 || Python 🐍</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikantmandal007&label=Profile%20views&color=0e75b6&style=flat" alt="nishikantmandal007" /> </p>
